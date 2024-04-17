@@ -1,4 +1,6 @@
-header, main, footer {
+header,
+main,
+footer {
     border: 1px solid black;
 }
 
@@ -9,7 +11,7 @@ h1 {
     width: 50%;
     position: relative;
     top: -100px;
-    left:50px;
+    left: 50px;
 }
 
 a {
@@ -21,8 +23,9 @@ section {
     border: 1px dashed red;
 }
 
-.sec1, .sec2 {
-    color: #11FF55;
+.sec1,
+.sec2 {
+    color: #11ff55;
     float: left;
 }
 
@@ -34,11 +37,12 @@ form {
     clear: left;
 }
 
-table, th, td {
+table,
+th,
+td {
     border: 1px solid black;
 }
 
 table {
     border-collapse: collapse;
 }
-
